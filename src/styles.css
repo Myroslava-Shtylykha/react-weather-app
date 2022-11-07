@@ -1,0 +1,111 @@
+body {
+  background: #ededed;
+}
+
+.cont {
+  background: rgb(179, 199, 206, 0.9);
+  border-radius: 20px;
+  font-family: "Arima", cursive;
+  height: 350px;
+  margin: 60px 200px;
+  border: solid 1px rgb(25, 84, 221);
+}
+
+form {
+  margin: 30px;
+  text-align: right;
+}
+
+#city {
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: rgb(146, 185, 236);
+}
+.search,
+.searchGeo {
+  border-radius: 5px;
+  border-color: rgb(146, 185, 236);
+  background-color: #ffff;
+  color: rgb(25, 84, 221);
+}
+
+.searchGeo {
+  border-radius: 5px;
+  border-color: rgb(146, 185, 236);
+  background-color: #ffff;
+  color: rgb(203, 101, 209);
+}
+
+.current {
+  margin-top: -160px;
+}
+.current_data {
+  margin-bottom: -110px;
+}
+
+.current_city {
+  color: rgb(7, 118, 203);
+  font-size: 35px;
+  margin-left: 40px;
+}
+
+.degrees_now {
+  font-size: 45px;
+  color: rgb(7, 118, 203);
+  margin-left: 40px;
+}
+
+.degree_icon {
+  font-size: 20px;
+  margin: -60px 30px 35px 90px;
+  color: rgb(7, 118, 203);
+  text-decoration: none;
+}
+
+.day_time,
+.description {
+  margin-left: 40px;
+  color: rgb(7, 118, 203);
+  font-size: 18px;
+}
+
+#icon {
+  margin-left: 160px;
+  margin-top: -40px;
+  width: 120px;
+}
+
+.card {
+  margin-left: 50px;
+}
+
+.card-title {
+  color: rgb(7, 118, 203);
+}
+
+.col-4 {
+  text-align: center;
+}
+
+.card_today {
+  position: relative;
+  margin-top: 60px;
+  margin-left: 280px;
+  margin-right: 50px;
+}
+
+.width {
+  width: 8rem;
+}
+
+.github_Link {
+  font-size: 13px;
+  color: rgb(63, 117, 147);
+  margin-left: 30px;
+  margin-top: 90px;
+}
+
+.github_Link a {
+  color: rgb(0, 166, 199);
+  text-decoration: none;
+}
